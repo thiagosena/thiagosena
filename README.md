@@ -7,7 +7,7 @@
     </a>
 </p>
 
-- 🔭 I'm working as a Software Engineer at [Jaya.tech](jaya.tech)
+- 🔭 I'm working as a Software Engineer at [Jaya.tech](https://jaya.tech)
 - 🌱 I'm currently learning **functional programming language with Elixir**
 - 💬 Ask me about **java, spring, react**
 - 📫 How to reach me **email@thiagosena.com**
