@@ -7,11 +7,11 @@
     </a>
 </p>
 
-- 🔭 I'm working as a Software Engineer at [Jaya.tech](https://jaya.tech)
+- 🔭 I'm working as a Software Engineer at [Sofico](https://sofico.global)
 - 🌱 I'm currently learning **functional programming language with Elixir**
-- 💬 Ask me about **java, spring, react**
+- 💬 Ask me about **java, kotlin, spring, react**
 - 📫 How to reach me **email@thiagosena.com**
-- ⚡ In my free time I like to play piano
+- ⚡ In my free time I like to play piano and playing with my dog 🐶
 
 ## 🛠 Languages and Tools I've been using
 <!-- LANGUAGE -->
