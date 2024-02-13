@@ -7,11 +7,10 @@
     </a>
 </p>
 
-- 🔭 I'm working as a Software Engineer at [Sofico](https://sofico.global)
-- 🌱 I'm currently learning **functional programming language with Elixir**
-- 💬 Ask me about **java, kotlin, spring, react**
+- 🔭 I'm working as a Java Software Engineer at [Sofico](https://sofico.global)
+- 💬 If I have seen further, it is by standing on the shoulders of giants. (Isaac Newton)
 - 📫 How to reach me **email@thiagosena.com**
-- ⚡ In my free time I like to play piano and playing with my dog 🐶
+- ⚡ In my free time I like to play piano, play video games, watch movies/series or learn about something I don't know yet
 
 ## 🛠 Languages and Tools I've been using
 <!-- LANGUAGE -->
